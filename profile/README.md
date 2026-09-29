@@ -14,6 +14,9 @@ We maintain experimental, reviewable patch stacks for Minecraft protocol project
 | [CubeConverter](https://github.com/StackAnvil/CubeConverter) | Fork branches for model conversion PRs |
 | [ViaFabricPlus](https://github.com/StackAnvil/ViaFabricPlus) | Fork branches for ViaFabricPlus PRs |
 | [maven](https://github.com/StackAnvil/maven) | Maven files for fully patched releases |
+| [javadocs](https://github.com/StackAnvil/javadocs) | API reference for the latest fully patched release |
+
+Developers can get release JARs from [StackAnvil Maven](https://stackanvil-maven.pistonmaster.net/) and browse the [Javadocs](https://stackanvil-jd.pistonmaster.net/). The [Maven and Javadocs guide](https://stackanvil.pistonmaster.net/libraries/) gives a Gradle example and direct links for each project.
 
 **Want to help?** Pick one feature patch, try the build, and tell us what worked or failed. Small tests and clear reports are welcome. The [contributing guide](https://stackanvil.pistonmaster.net/contributing/) shows where to start.
 
